@@ -1,2 +1,2 @@
 # NYC Ecommerce MLR
- Multiple linear regression analysis on ecommerce dataset
+ Multiple linear regression analysis on an NYC ecommerce dataset 
